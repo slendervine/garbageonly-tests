@@ -1,0 +1,23 @@
+/*
+index.html
+
+
+.conteudo{
+	border: 1px solid red;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	width: 150px; *
+	padding: 15px;
+
+	margin: 
+}
+                 Elementos Flutuantes abaixo      */
+.conteudo{
+	background: blue;
+	border: 1px solid gray;
+	width: 150px;
+	height: 150px;
+	float: left;
+}
+
